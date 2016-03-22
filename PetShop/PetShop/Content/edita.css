@@ -1,0 +1,54 @@
+﻿     
+        th {
+            font-size: 20px;
+        } 
+
+       .pequeno {
+            height: 30px;
+            width: 80px;
+            border-radius: 30px;
+            font-size: 14px;
+        }
+
+        .cadastro{
+            color: red;
+            font-size: 20px;
+        }
+
+        .listagem{
+            color: red;
+            font-size: 25px;
+        }
+
+        .maior {
+            font-size: 15px;
+        }
+
+        #imagem {
+            height: 15%;
+            width: 15%;
+        }
+
+        #centro {
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-top: 2%;
+            margin-left: 37%;
+            margin-right: 36%;
+            padding: 3%;
+        }
+
+        #legenda{
+            text-align:center;
+            padding-top:1%;
+            padding-bottom:1%;
+        }
+
+        #btnCadastrar {
+            margin-top: 10%;
+            margin-left: 55%;
+        }
+
+        #btnVoltar {
+            margin-top: 30%;
+        }
